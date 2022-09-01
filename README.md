@@ -1,16 +1,4 @@
-# admob_example
+Flutter에서 GetX를 이용해 배너 광고를 띄우는 예제입니다.
+아래 블로그에 좀 더 자세한 설명을 기술 했습니다.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Reference : https://vlee.kr/5123
